@@ -1,0 +1,17 @@
+MPI version 1 | np=2
+  rank 0: files=1500 local_time=13.323409 s
+  rank 1: files=1500 local_time=13.244375 s
+LI=1.0030  spread=0.0059
+Total occurrences: 3631778
+Top 10 palabras de consulta en el corpus:
+  a: 785774
+  para: 392156
+  sus: 228913
+  otros: 105530
+  ante: 99832
+  unos: 88794
+  otra: 83901
+  vosotros: 61617
+  mios: 58420
+  tuya: 56635
+EXECUTION_TIME=13.344719
